@@ -1,0 +1,5 @@
+# General Dependencies
+robotframework
+robotframework-seleniumlibrary
+selenium 
+pyyaml

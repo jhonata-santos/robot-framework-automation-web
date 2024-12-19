@@ -1,0 +1,11 @@
+.vscode
+.html
+.xml
+.zip
+.png
+.DS_Store
+.csv
+.log
+.credentials.yaml
+/results
+/reports
